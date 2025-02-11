@@ -1,4 +1,4 @@
-### Overview:
+### Covid Analysis using SQL
 
 Data Exploration in SQL 
 
