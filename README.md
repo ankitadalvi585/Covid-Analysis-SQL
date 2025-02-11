@@ -1,4 +1,4 @@
-# SQL
+### SQL
 
 Data Exploration in SQL 
 
